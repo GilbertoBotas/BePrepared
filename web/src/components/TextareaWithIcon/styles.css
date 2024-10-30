@@ -1,0 +1,22 @@
+#textarea-with-icon-block {
+    width: 100%;
+    padding: 2rem;
+    font-size: 1.4rem;
+    border: 1px solid #dadada;
+    border-radius: 0.8rem;
+    display: flex;
+    gap: 1rem;
+}
+
+/* #textarea-with-icon-block :focus-within {
+    box-shadow: 0 0 0 1px #dadada;
+} */
+
+#textarea-with-icon-block textarea {
+    height: 100%;
+    width: 100%;
+    background: transparent;
+    border: 0;
+    outline: 0;
+    min-height: 10rem;
+}

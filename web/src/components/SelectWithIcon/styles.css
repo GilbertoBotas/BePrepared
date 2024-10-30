@@ -1,0 +1,22 @@
+#select-with-icon-block {
+    width: 100%;
+    height: 4rem;
+    padding: 0 2rem;
+    font-size: 1.4rem;
+    border: 1px solid #dadada;
+    border-radius: 0.8rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+/* #select-with-icon-block :focus-within {
+    box-shadow: 0 0 0 1px #dadada;
+} */
+
+#select-with-icon-block select {
+    height: 100%;
+    width: 100%;
+    background: transparent;
+    border: 0;
+}
