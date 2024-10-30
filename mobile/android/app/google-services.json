@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222844494491",
+    "project_id": "beprepared-9c948",
+    "storage_bucket": "beprepared-9c948.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222844494491:android:bada61a713bdcbc4b91c3e",
+        "android_client_info": {
+          "package_name": "com.turbokode.khodar.beprepared"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJYY4ydaJfd7wjoRNAPz73-km2Ecl3qH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
